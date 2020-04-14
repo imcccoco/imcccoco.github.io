@@ -1,6 +1,6 @@
 # Site settings
 title: CoCo Blog
-SEOTitle: CoCo's Blog | BY Blog
+SEOTitle: CoCo's Blog
 header-img: img/desk.jpg
 email: im.chenc@hotmail.com
 description: "Step by Step, Brick by Brick"
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: imcccoco
+# disqus_username: imcccoco
 
 # Gitalk
 # gitalk:
