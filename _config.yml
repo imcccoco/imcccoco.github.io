@@ -1,3 +1,5 @@
+markdown: kramdown
+
 # Site settings
 title: CoCo Blog
 SEOTitle: CoCo's Blog
